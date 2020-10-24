@@ -58,7 +58,7 @@ Run the program as
 
 ### Authors
 
-* Chris Collander <christopher.collander@mavs.uta.edu>
+* Chris Collander &lt;christopher.collander@mavs.uta.edu&gt;
 
 ### License and Copyright
 
