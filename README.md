@@ -32,7 +32,7 @@ make
 
 #### Armcontrol
 
-Armcontrol is meant to be used with the corresponding [2-DoF Manipulator](http://www.google.com) to obtain 3D point clouds from an Intel RealSense D415 in various positions. The filenames are encoded with the motor positions as {yaw}_{pitch}.pcd, ex: 1024_2386.pcd. Files are saved in the current folder. The default configuration is to randomly sample the action space of the motors, however functions in the code are abstracted to allow changes to be easily made if another method is preferred.
+Armcontrol is meant to be used with the corresponding [2-DOF Manipulator](http://www.google.com) to obtain 3D point clouds from an Intel RealSense D415 in various positions. The filenames are encoded with the motor positions as {yaw}_{pitch}.pcd, ex: 1024_2386.pcd. Files are saved in the current folder. The default configuration is to randomly sample the action space of the motors, however functions in the code are abstracted to allow changes to be easily made if another method is preferred.
 
 Run the program as 
 
