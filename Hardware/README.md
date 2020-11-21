@@ -1,4 +1,4 @@
-# NBV_Hardware
+## Hardware for the Next Best View via Topological Features
 
 This repository holds an open design for a 2DoF manipulator for 3D point cloud scanning
 
@@ -6,7 +6,7 @@ This repository holds an open design for a 2DoF manipulator for 3D point cloud s
 
 This design was created for research in 3D Point Cloud Analysis for Next Best View. Fusion 360 was used to create a parameterized model capable of changes to the design. This manipulator can be fully constructed of 3D printed pieces, lasercut wood, a carbon fiber tube (found at a local hobby shop), 2 Dynamixel XL430 motors, a Realsense D415 camera, and simple mechanical screws.
 
-## Printing/Cutting
+### Printing/Cutting
 
 For 3D Printing, a Prusa i3 mk3s was used for the pieces, with some pieces being printed in PETG and others in PLA. As relatively little stress will be placed on the pieces, the actual plastic doesn't matter. The only piece that should be printed with high detail is the carbon fiber mount. Ensure the carbon fiber rod does not move in the mount and the mount is secure on the motor with no wiggle room. As the standoffs needed to be specific heights to allow the camera to be facing directly at the origin, these were 3D printed in high quality. If you can find another way to securely ensure the height of each layer, feel free to go that route. This just worked well for us. We even 3D printed the nuts for the standoffs, but we do admit this is unnecessary considering we could have just made a trip to the hardware store. We've included the STL file for them anyways, in case anybody wants to take the same route.
 
@@ -36,11 +36,11 @@ The following pieces should be purchased
 * 1x Carbon Fiber 5mm-OD square tube: [here](https://www.hobbytown.com/midwest-carbon-fiber-square-tube-.196-od-x-.118-id-x-40-mid5854/p28823)
 * Any screws necessary for the build, a mixture of M3 and M5 metal screws.
 
-## Authors
+### Authors
 
-* **Chris Collander**
+* Chris Collander &lt;christopher.collander@mavs.uta.edu&gt;
 
-## License and Copyright
+### License and Copyright
 This project is licensed under GNU GPLv3 - see the [LICENSE.md](LICENSE.md) file for details
 
-Copyright 2019, Chris Collander
+Copyright 2019-2020, Chris Collander
