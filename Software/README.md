@@ -64,4 +64,4 @@ Run the program as
 
 This project is licensed under GNU GPLv3 - see the [LICENSE.md](LICENSE.md) file for details
 
-Copyright 2019-2020, Chris Collander
+Copyright 2019-2021, Chris Collander
