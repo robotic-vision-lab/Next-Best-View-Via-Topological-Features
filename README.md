@@ -1,6 +1,15 @@
 ## Next Best View via Topological Features
 
-This repository holds software, data, and CAD files for the Robotic Vision Lab's research into the next best view using computational topology.
+This repository holds software, data, and CAD files for our 2021 ICRA paper entitled "[Learning the Next Best View for 3D Point Clouds via Topological Features](https://arxiv.org/abs/2103.02789)." If you find this work useful, then please cite it as follows.
+```
+@inproceedings{collander2021learning,
+  title={Learning the Next Best View for 3{D} Point Clouds via Topological Features},
+  author={Collander, Christopher and Beksi, William J and Huber, Manfred},
+  booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={},
+  year={2021}
+}
+```
 
 ### Getting Started
 
