@@ -1,6 +1,6 @@
 ## Next Best View via Topological Features
 
-This repository holds software, data, and CAD files for our 2021 ICRA paper entitled "[Learning the Next Best View for 3D Point Clouds via Topological Features](https://arxiv.org/abs/2103.02789)." If you find this work useful, then please cite it as follows.
+This repository holds software, data, and CAD files for our 2021 ICRA paper entitled "[Learning the Next Best View for 3D Point Clouds via Topological Features](https://arxiv.org/abs/2103.02789)." If you find this work useful, then please consider citing it:
 ```
 @inproceedings{collander2021learning,
   title={Learning the Next Best View for 3{D} Point Clouds via Topological Features},
