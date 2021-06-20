@@ -13,7 +13,7 @@ This repository holds software, data, and CAD files for our 2021 ICRA paper enti
 
 ### Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine.
+These instructions will get you a copy of the project up and running on your machine.
 
 ### Prerequisites
 
