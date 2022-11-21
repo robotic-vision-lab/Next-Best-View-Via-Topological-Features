@@ -14,9 +14,9 @@ individual consecutive gains.
 <img src='./Misc/nbv_overview.png'>
 </p>
 
-This repository holds software, data, and CAD files for our 2021 ICRA paper
+This repository contains software, data, and CAD files for our 2021 ICRA paper
 titled "[Learning the Next Best View for 3D Point Clouds via Topological
-Features](https://arxiv.org/abs/2103.02789)." Specifically, we introduce a
+Features](https://arxiv.org/pdf/2103.02789.pdf)." Specifically, we introduce a
 reinforcement learning approach utilizing a novel topology-based information
 gain metric for directing the NBV of a noisy 3D sensor. The metric combines the
 disjoint sections of an observed surface to focus on high-detail features such
