@@ -11,7 +11,7 @@ subsequent views, and the full gain of a sequence of views is the sum of the
 individual consecutive gains.
 
 <p align="center">
-<img src='./Misc/nbv_overview.png'>
+  <img src="./Misc/nbv_overview.png" alt="overview">
 </p>
 
 This repository contains software, data, and CAD files for our 2021 ICRA paper
